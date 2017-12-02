@@ -1,2 +1,2 @@
 # arduino_code
-Code I've written for the Arduino Uno (with help from other amzing people and libraries)
+backup only. read it if you want. dont expect it to make sense. all working code in other repositorys
